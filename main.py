@@ -1,5 +1,4 @@
 import tkinter as tk
-import time
 
 class Label(tk.Label):
     def __init__(self, master):
